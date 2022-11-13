@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppSorteio</string>
+    <string name="text_jogar">jogar</string>
+    <string name="text_number">0</string>
+    <string name="text_titulo">Escolha um número de 0 até 10</string>
+</resources>
